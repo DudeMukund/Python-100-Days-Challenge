@@ -38,3 +38,13 @@ as follows:
 
 Whatever I learn, I'll share it here. That's all — good luck to me, 
 and thanks for following along!
+
+note:
+greet ="hello how are you bro"
+#split
+greet_spliyt = greet.split()
+print(greet_spliyt)#['hello', 'how', 'are', 'you', 'bro']
+
+#join
+greet_str = " ".join(greet_spliyt)
+print(greet_str)#hello how are you bro
