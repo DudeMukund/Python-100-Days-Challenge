@@ -19,12 +19,11 @@ as follows:
 - **Concept folders** — separate folders for each topic covered that 
   day (e.g., `Variables`, `Data-Types`, `Loops`), containing the 
   practice code for that specific concept
-- **`Project`** — the mini project built that day, applying what was 
-  learned. Each project folder also has its own `README.md` 
-  explaining what the project does and how it works
+- **`Project`** — the  project built that day, applying what was 
+  learned.
 ## Progress
 
-| Day | Topic | Mini Project |
+| Day | Topic | Project |
 |-----|-------|--------------|
 | 1 | Variables, Print, Input | Band Name Generator |
 | 2 | Data Types, Operators, F-Strings | Tip Calculator, BMI Calculator |
