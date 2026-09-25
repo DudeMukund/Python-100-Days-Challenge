@@ -31,6 +31,7 @@ as follows:
 | 4 | Lists, Randomization | Heads or Tails, Rock Paper Scissors |
 | 5 | Loop , Range | Fizz Buzz, Py Password Generator |
 | 6 | Basic Function, While loop | Number Guessing Game |
+| 7 | uses of For , While , If.. | Hang Man Game |
 
 
 ---
