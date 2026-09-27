@@ -33,6 +33,7 @@ as follows:
 | 6 | Basic Function, While loop | Number Guessing Game |
 | 7 | uses of For , While , If  | Hang Man Game |
 | 8 | More about Function and it's uses | Life in Weeks, True Love Calculator, Caesar Cipher |
+| 9 | Dictionary, Nested Dictionary  & list | Silent Auction Program |
 
 
 ---
