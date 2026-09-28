@@ -39,4 +39,4 @@ as follows:
 ---
 
 Whatever I learn, I'll share it here. That's all — good luck to me
-and thanks for following along!
+and thanks for following along!!
