@@ -12,7 +12,7 @@ from Python basics all the way to advanced concepts.
 
 ## Structure
 
-Each day has its own folder (e.g., `Day-1`, `Day-2`, ...), organized 
+Each day has its own folder (e.g., `Day-1`, `Day-2`, `Day-3`,...), organized 
 as follows:
 
 - **`README.md`** — notes on the concepts I learned that day
