@@ -28,7 +28,7 @@ follow along and learn from my journey too. This course takes me
 from Python basics all the way to advanced concepts.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PyLadiesParis/materials/master/img/python-logo.png" width="120">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="120">
 </div>
 
 ---
