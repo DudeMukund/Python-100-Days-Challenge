@@ -78,7 +78,7 @@ Each day's folder (`Day-XX/`) is organized like this:
 | 8 | More about Function and it's uses | Life in Weeks, True Love Calculator, Caesar Cipher |
 | 9 | Dictionary, Nested Dictionary  & list | Silent Auction Program |
 | 10| More on Function | Advanced Calculator | 
-| 11| All Day 1 to 10 concept used  | BlackJack Card game |
+| 11| All Day 1 to Day 10 concept used  | BlackJack Card game |
 
 ---
 
