@@ -2,11 +2,15 @@
 
 # 🐍 100 Days of Python Challenge
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Days](https://img.shields.io/badge/Day-11%2F100-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Days](https://img.shields.io/badge/Day-11%2F100-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 
-**Date Started:** 19 September 2026
+**📅 Date Started:** 19 September 2026
+
+<br>
+
+### ✨ *One day at a time. One bug at a time. One skill at a time.* ✨
 
 </div>
 
@@ -15,38 +19,42 @@
 ## 📖 About This Journey
 
 I'm doing the **"100 Days of Code: The Complete Python Pro Bootcamp"** 
-by Dr. Angela Yu on Udemy. I purchased it a few months ago but hadn't 
-started — today, I made a commitment to myself to actually complete 
-this course, and I'm excited to begin!
+by **Dr. Angela Yu** on Udemy. I purchased it a few months ago but 
+hadn't started — today, I made a commitment to myself to actually 
+complete this course, and I'm excited to begin! 🎯
 
 I'll be uploading all my files and resources to GitHub so others can 
 follow along and learn from my journey too. This course takes me 
 from Python basics all the way to advanced concepts.
 
+---
+
 ## 🎓 Course Credit
 
-This challenge follows Dr. Angela Yu's course on Udemy:
-**[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**
+This challenge follows **Dr. Angela Yu's** course on Udemy:
+
+📚 **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**
+🐙 **[Angela on GitHub — @angelabauer](https://github.com/angelabauer)**
 
 All course content, project ideas, and structure belong to Dr. Angela 
 Yu and The App Brewery. This repository contains my own personal 
-practice code and notes as I work through the course.
+practice code and notes as I work through the course. 🙏
 
-## 📁 Structure
+---
 
-Each day has its own folder (e.g., `Day-1`, `Day-2`, `Day-3`,...), organized 
-as follows:
+## 📁 Repository Structure
 
-- **`README.md`** — notes on the concepts I learned that day
-- **Concept folders** — separate folders for each topic covered that 
-  day (e.g., `Variables`, `Data-Types`, `Loops`), containing the 
-  practice code for that specific concept
-- **`Project`** — the  project built that day, applying what was 
-  learned.
+---
 
 ## 📊 Progress
 
-**11 / 100 days** — `[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` 11%
+<div align="center">
+
+### **11 / 100 days complete**
+
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **11%**
+
+</div>
 
 | Day | Topic | Project |
 |:---:|-------|--------------|
@@ -66,7 +74,12 @@ as follows:
 
 <div align="center">
 
-Whatever I learn, I'll share it here. That's all — good luck to me
-and thanks for following along! 🚀
+### 🌱 Whatever I learn, I'll share it here.
+
+**That's all — good luck to me, and thanks for following along! 🚀**
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=orange&style=flat-square)
 
 </div>
