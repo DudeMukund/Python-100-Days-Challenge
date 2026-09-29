@@ -1,15 +1,16 @@
 <div align="center">
 
-# 🐍 100 Days of Python Challenge
+<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python%20Challenge&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Days](https://img.shields.io/badge/Day-11%2F100-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+
 **📅 Date Started:** 19 September 2026
 
 <br>
 
-### ✨ *One day at a time. One bug at a time. One skill at a time.* ✨
+<img src="https://readme-typing-svg.demolab.com/?lines=One+day+at+a+time.;One+bug+at+a+time.;One+skill+at+a+time.;Building+consistency+%F0%9F%90%8D&font=Fira%20Code&center=true&width=500&height=45&color=3776AB&vCenter=true&size=22" />
 
 </div>
 
@@ -25,6 +26,10 @@ complete this course, and I'm excited to begin! 🎯
 I'll be uploading all my files and resources to GitHub so others can 
 follow along and learn from my journey too. This course takes me 
 from Python basics all the way to advanced concepts.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PyLadiesParis/materials/master/img/python-logo.png" width="120">
+</div>
 
 ---
 
@@ -43,12 +48,11 @@ practice code and notes as I work through the course. 🙏
 
 ## 📁 Repository Structure
 
-```text
-Day-XX/
-├── README.md         → notes on concepts learned that day
-├── Concept-Folders/  → practice code, split by topic
-└── Project/           → the day's applied mini-project
-```
+Each day's folder (`Day-XX/`) is organized like this:
+
+- **`README.md`** → notes on concepts learned that day
+- **`Concept-Folders/`** → practice code, split by topic
+- **`Project/`** → the day's applied mini-project
 
 ---
 
@@ -95,5 +99,9 @@ Day-XX/
 <br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=orange&style=for-the-badge)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=100&section=footer" />
 
 </div>
