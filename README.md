@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Days](https://img.shields.io/badge/Day-11%2F100-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
-![Last Commit](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Last%20Updated&query=%24.pushed_at&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyourusername%2Fyourrepo&color=blueviolet)
-
 **📅 Date Started:** 19 September 2026
 
 <br>
@@ -44,11 +42,13 @@ practice code and notes as I work through the course. 🙏
 ---
 
 ## 📁 Repository Structure
-Day-XX/
-├── README.md → notes on concepts learned that day
-├── Concept-Folders/ → practice code, split by topic
-└── Project/ → the day's applied mini-project
 
+```text
+Day-XX/
+├── README.md         → notes on concepts learned that day
+├── Concept-Folders/  → practice code, split by topic
+└── Project/           → the day's applied mini-project
+```
 
 ---
 
