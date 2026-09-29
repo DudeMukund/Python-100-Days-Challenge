@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Days](https://img.shields.io/badge/Day-11%2F100-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+![Last Commit](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Last%20Updated&query=%24.pushed_at&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyourusername%2Fyourrepo&color=blueviolet)
 
 **📅 Date Started:** 19 September 2026
 
@@ -43,6 +44,11 @@ practice code and notes as I work through the course. 🙏
 ---
 
 ## 📁 Repository Structure
+Day-XX/
+├── README.md → notes on concepts learned that day
+├── Concept-Folders/ → practice code, split by topic
+└── Project/ → the day's applied mini-project
+
 
 ---
 
@@ -72,6 +78,14 @@ practice code and notes as I work through the course. 🙏
 
 ---
 
+## 🛠️ Tech Stack
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
 <div align="center">
 
 ### 🌱 Whatever I learn, I'll share it here.
@@ -80,6 +94,6 @@ practice code and notes as I work through the course. 🙏
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=orange&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=orange&style=for-the-badge)
 
 </div>
