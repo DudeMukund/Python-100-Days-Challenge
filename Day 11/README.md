@@ -25,11 +25,11 @@ and the `random` module all showed up in this one project.
 ## Honest Reflection
 
 Today wasn't a great day, and I want to be honest about it instead of 
-skipping over it. This project came from a course where the teacher 
-demoed how the project works but didn't share the code — the idea was 
-to build it myself first, then compare against the solution. Today, I'd 
-say I only contributed about **10-20%** on my own, and the rest came 
-from following the teacher's solution.
+skipping over it. This project came from the course I'm doing with 
+Angela Yu — she demoed how the project works but didn't share the 
+code — the idea was to build it myself first, then compare against 
+her solution. Today, I'd say I only contributed about **10-20%** on 
+my own, and the rest came from following Angela's solution.
 
 I do understand the concepts involved — the loops, the functions, the 
 logic for handling the Ace, the turn structure — none of that felt 
