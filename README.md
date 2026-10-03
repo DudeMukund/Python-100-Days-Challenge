@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python%20Challenge&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Days](https://img.shields.io/badge/Day-12%2F100-orange?style=for-the-badge)
+![Days](https://img.shields.io/badge/Day-13%2F100-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 
 **📅 Date Started:** 19 September 2026
@@ -60,9 +60,9 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-### **12 / 100 days complete**
+### **13 / 100 days complete**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **12%**
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **13%**
 
 </div>
 
@@ -80,6 +80,7 @@ Each day's folder (`Day-XX/`) is organized like this:
 | 10 | More on Function | Advanced Calculator | 
 | 11 | All Day 1 to Day 10 concept used  | BlackJack Card game |
 | 12 | Namespaces, Scope (Global & Local), Mutable vs Immutable | Number Guessing Game |
+| 13 | Debugging | None |
 
 ---
 
