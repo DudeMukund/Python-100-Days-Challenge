@@ -1,3 +1,5 @@
+import os
+from art import logo  
 MENU = {
     "espresso": {
         "ingredients": {
@@ -69,12 +71,17 @@ def make_cofee(order , ingredients):
         for i in ingredients:
             resources[i] = resources[i]-ingredients[i]
 
-        print(f"Here is your ☕ {order}. Enjoy!")
-        
-    
+        print(f"Here is your 🍵 {order}. Enjoy!")
+
+
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+  
 do_you_want_order = True
 
-while(do_you_want_order):
+while do_you_want_order:
+    clear()
+    print(logo)
     order = input("What would you like?  (espresso/latte/cappuccino): ").lower()
 
     if order == "report":
@@ -86,16 +93,18 @@ while(do_you_want_order):
         break
 
     elif order in MENU:
-        drink = MENU[order] # ingredients and #cost
-        ingredients = drink["ingredients"] # ingrediants items
+        drink = MENU[order]
+        ingredients = drink["ingredients"]
 
         if resourse_avilable(ingredients):
-            total = process_coins() # customer money
+            total = process_coins()
             if check_transaction(total, drink["cost"]):
-                make_cofee(order , ingredients)
+                make_cofee(order, ingredients)
 
     else:
         print("Invalid choice, please try again.")
+
+    input("\nPress Enter to continue...")
 
             
 
