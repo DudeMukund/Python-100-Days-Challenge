@@ -95,9 +95,6 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 **That's all — good luck to me, and thanks for following along! 🚀**
 
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=orange&style=for-the-badge)
 
 <br><br>
 
