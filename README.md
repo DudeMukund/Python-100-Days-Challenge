@@ -5,7 +5,6 @@
 **📅 Date Started:** 19 September 2026
 
 <br>
-
 <img src="https://readme-typing-svg.demolab.com/?lines=One+day+at+a+time.;One+bug+at+a+time.;One+skill+at+a+time.;Building+consistency+%F0%9F%90%8D&font=Fira%20Code&center=true&width=500&height=45&color=3776AB&vCenter=true&size=22" />
 
 </div>
