@@ -96,8 +96,6 @@ Each day's folder (`Day-XX/`) is organized like this:
 **That's all — good luck to me, and thanks for following along! 🚀**
 
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=100&section=footer" />
 
 </div>
