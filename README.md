@@ -55,9 +55,9 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-### **15 / 100 days complete**
+### **16 / 100 days complete**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **15%**
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **16%**
 
 </div>
 
@@ -78,7 +78,7 @@ Each day's folder (`Day-XX/`) is organized like this:
 | 13 | Debugging | None |
 | 14 | All concept Day-1 to Day-12  | Higher Lower Game |
 | 15 | Function & all basic concepts | Coffee Machine |
-
+| 16 | Basics of Class & Object | Building Coffee Machine using Classes & Object  not from Scratch |
 ---
 
 ## 🛠️ Tech Stack
