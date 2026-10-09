@@ -11,21 +11,6 @@ Today I started **Object-Oriented Programming (OOP)**. Before this, everything I
 - **Method**: a function that belongs to a class.
 - **How to use them**: create an object (`car = Car()`), access an attribute (`car.speed`), call a method (`car.drive()`).
 
-### `__init__` and `self`
-- `__init__` is a special method that runs automatically when an object is created. It's where I set up the object's attributes.
-- `self` is a reference to the current object. Object attributes are written as `self.name = name` inside `__init__`.
-
-### Class variable vs object variable
-- **Class variable**: defined in the class body, shared by all objects of that class.
-- **Object variable**: defined with `self` inside `__init__`, separate for each object.
-- If both have the same name, the **object variable takes precedence** over the class variable.
-
-### Decorators and static methods
-- Learned about the `@staticmethod` decorator. A static method doesn't receive `self`, because it doesn't need access to any particular object.
-
-### Abstraction and Encapsulation
-- **Abstraction**: hide the complicated inner details and show the user only what's important.
-- **Encapsulation**: keep the data (attributes) and the methods that work on it together in one "capsule", the class.
 
 ## Project: Coffee Machine with Classes
 
