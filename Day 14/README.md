@@ -1,4 +1,4 @@
-# Day 14: Higher Lower Game
+`# Day 14: Higher Lower Game
 
 ## What I Learned Today
 
@@ -41,4 +41,4 @@ it working matters more than making it short. The next improvement is
 making it clean: moving the repeated code into functions (for example
 one to format a celebrity, one to compare followers, and one to run a
 round) so each change only has to be made in one place. I will try that
-on the next project.
+on the next project.`
