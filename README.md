@@ -55,9 +55,9 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-### **18 / 100 days complete**
+### **19 / 100 days complete**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **18%**
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **19%**
 
 </div>
 
@@ -81,6 +81,7 @@ Each day's folder (`Day-XX/`) is organized like this:
 | 16 | How to use Classes & Object | Building Coffee Machine using Classes & Object  not from Scratch |
 | 17 | Basics of OOPS like buildig Classes and Object ..etc | Quiz Game (Object Oriented Programming) |
 | 18 | Turtle Graphics | Hirst Dot Painting |
+| 19 | More on Turtle Graphics like : Multiple Turtles, Keyboard Events | Turtle Race Game |
 ---
 
 ## 🛠️ Tech Stack
