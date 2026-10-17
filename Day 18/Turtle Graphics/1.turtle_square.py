@@ -11,9 +11,13 @@ magic_turtle.pencolor("Red") # changeing pen color of turtle
 
 
 # giving instruction to move:
+magic_turtle.fillcolor()
+magic_turtle.begin_fill()
 for i in range(4):
     magic_turtle.forward(100)
     magic_turtle.left(90)
+magic_turtle.end_fill()
+
 
 
 

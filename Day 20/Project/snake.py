@@ -1,4 +1,5 @@
 from turtle import Turtle
+import random
 move_dist = 20
 UP =90
 DOWN = 270
@@ -28,6 +29,19 @@ class Snake:
             self.segments[seg_num].goto(new_x,new_y)
 
         self.head.forward(move_dist)
+
+    # def snake_food(self): ## making fodd
+    #     t=Turtle()
+    #     t.hide()
+    #     t.goto(random.randint(-280, 280), random.randint(-280, 280))
+    #     t.dot(10,"pink")
+
+    # def game_is_on(self):   ## if snake touch wall
+        
+    #     if self.head.xcor() >300 or self.head.xcor() < -300 or self.head.ycor() >300 or self.head.ycor() < -300:
+    #         return False
+    #     else:
+    #         return True
 
     def up(self):
         if self.head.heading()!= DOWN:

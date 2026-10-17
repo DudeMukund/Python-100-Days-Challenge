@@ -9,7 +9,7 @@ timmy.shape("turtle")
 #     timmy.pencolor("white")
 #     timmy.forward(10)
 #     timmy.pencolor("Green")
-
+timmy.pensize(6)
 for i in range(15):
     timmy.forward(10)
     timmy.penup()
