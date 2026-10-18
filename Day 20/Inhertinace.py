@@ -14,6 +14,7 @@ class Dog(Animal):
 
     def sass_lena(self):
         super().breathe()
+        self.breathe()
         print("i'm taking oxygen and releasing carbodioxide")
 
     def move(self):
