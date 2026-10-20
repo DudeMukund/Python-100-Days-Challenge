@@ -64,20 +64,17 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 ---
 
-## 📊 Progress — 21 / 100 Days Complete
-
 <div align="center">
 
-### 🌱 Every day is a step forward!
-<h3>✅ 21 Days Completed &nbsp; | &nbsp; 🎯 79 Days Remaining</h3>
+<h2>🚀 21% COMPLETED</h2>
 
-# **21 / 100 days complete**
+<h3> <code>███████░░░░░░░░░░░░░░░░░░░░░</code> </h3>
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **21%**
+<h3>🐍 21 / 100 Days Complete</h3>
 
 *Learning something new every day. Keep going! 🐍*
-
 </div>
+
 
 <br>
 
