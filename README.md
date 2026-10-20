@@ -61,28 +61,30 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 </div>
 
-| Day | Topic | Project |
-|:---:|-------|--------------|
-| 1 | Variables, Print, Input | Band Name Generator |
-| 2 | Data Types, Operators, F-Strings | Tip Calculator, BMI Calculator |
-| 3 | If, Else, Elif | Treasure Island, Pizza Order Calculator |
-| 4 | Lists, Randomization | Heads or Tails, Rock Paper Scissors |
-| 5 | Loop , Range | Fizz Buzz, Py Password Generator |
-| 6 | Basic Function, While loop | Number Guessing Game |
-| 7 | uses of For , While , If  | Hang Man Game |
-| 8 | More about Function and it's uses | Life in Weeks, True Love Calculator, Caesar Cipher |
-| 9 | Dictionary, Nested Dictionary  & list | Silent Auction Program |
-| 10 | More on Function | Advanced Calculator | 
-| 11 | All Day 1 to Day 10 concept used  | BlackJack Card game |
-| 12 | Namespaces, Scope (Global & Local), Mutable vs Immutable | Number Guessing Game |
-| 13 | Debugging | None |
-| 14 | All concept Day-1 to Day-12  | Higher Lower Game |
-| 15 | Function & all basic concepts | Coffee Machine |
-| 16 | How to use Classes & Object | Building Coffee Machine using Classes & Object  not from Scratch |
-| 17 | Basics of OOPS like buildig Classes and Object ..etc | Quiz Game (Object Oriented Programming) |
-| 18 | Turtle Graphics | Hirst Dot Painting |
-| 19 | More on Turtle Graphics like : Multiple Turtles, Keyboard Events | Turtle Race Game |
-| 20 & 21 | More Turtle Graphics and Inheritance | Sanke Game |
+Click a project to open its code directly.
+
+| Day | Topic | Project | Link |
+|:---:|-------|---------|:----:|
+| 1 | Variables, Print, Input | Band Name Generator | [Open](Day%201) |
+| 2 | Data Types, Operators, F-Strings | Tip Calculator, BMI Calculator | [Open](Day%202) |
+| 3 | If, Else, Elif | Treasure Island, Pizza Order Calculator | [Open](Day%203) |
+| 4 | Lists, Randomization | Heads or Tails, Rock Paper Scissors | [Open](Day%204) |
+| 5 | Loop, Range | Fizz Buzz, Py Password Generator | [Open](Day%205) |
+| 6 | Basic Function, While loop | Number Guessing Game | [Open](Day%206) |
+| 7 | Uses of For, While, If | Hang Man Game | [Open](Day%207) |
+| 8 | More about Functions and their uses | Life in Weeks, True Love Calculator, Caesar Cipher | [Open](Day%208) |
+| 9 | Dictionary, Nested Dictionary & List | Silent Auction Program | [Open](Day%209) |
+| 10 | More on Functions | Advanced Calculator | [Open](Day%2010) |
+| 11 | All concepts from Day 1 to Day 10 | BlackJack Card Game | [Open](Day%2011) |
+| 12 | Namespaces, Scope (Global & Local), Mutable vs Immutable | Number Guessing Game | [Open](Day%2012) |
+| 13 | Debugging | None | [Open](Day%2013) |
+| 14 | All concepts from Day 1 to Day 12 | Higher Lower Game | [Open](Day%2014) |
+| 15 | Functions & all basic concepts | Coffee Machine | [Open](Day%2015) |
+| 16 | How to use Classes & Objects | Coffee Machine using Classes & Objects | [Open](Day%2016) |
+| 17 | Basics of OOP: building Classes and Objects | Quiz Game | [Open](Day%2017/Project) |
+| 18 | Turtle Graphics | Hirst Dot Painting | [Open](Day%2018) |
+| 19 | Multiple Turtles, Keyboard Events | Turtle Race Game | [Open](Day%2019) |
+| 20 & 21 | More Turtle Graphics and Inheritance | Snake Game | [Open](Day%2020%20-%2021) |
 ---
 
 ## 🛠️ Tech Stack
