@@ -70,8 +70,6 @@ Each day's folder (`Day XX/`) is organized like this:
 
 # 🔥 21 / 100 DAYS COMPLETE 🔥
 
-<img src="https://img.shields.io/badge/PROGRESS-21%25-2ea44f?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" height="45" alt="21 percent" />
-
 ## `█████░░░░░░░░░░░░░░░░░░░░░░░░░`
 
 > ### 🐍 *Learning something new every day. Keep going!*
