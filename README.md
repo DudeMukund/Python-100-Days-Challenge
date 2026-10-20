@@ -61,12 +61,6 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 </div>
 
-## 🔗 Day Links
-
-## 🔗 Day Links
-
-Click a day to open its folder.
-
 | Day | Topic | Project |
 |:---:|-------|---------|
 | [Day 01](Day%2001) | Variables, Print, Input | Band Name Generator |
