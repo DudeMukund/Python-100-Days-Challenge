@@ -1,22 +1,23 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" width="100%" alt="100 Days of Python Challenge" />
 
 # 🐍 100 Days of Python Challenge
 
-### From learning the basics to building real projects.
+### From Learning the Basics to Building Real Projects
 
 <p>
-  <img src="https://img.shields.io/badge/Challenge-100%20Days-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progress-21%25-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+  <img src="https://img.shields.io/badge/Challenge-100%20Days-306998?style=for-the-badge&logo=python&logoColor=white" alt="100 Days Challenge" />
+  <img src="https://img.shields.io/badge/Progress-21%25-2ea44f?style=for-the-badge" alt="21 Percent Complete" />
+  <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python" />
 </p>
 
 **📅 Date Started:** 19 September 2026
 
-*One day at a time. One bug at a time. One skill at a time.* 💻
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=One+day+at+a+time.;One+bug+at+a+time.;One+skill+at+a+time.;Building+consistency+%F0%9F%90%8D&font=Fira%20Code&center=true&width=500&height=45&color=3776AB&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=One+day+at+a+time.;One+bug+at+a+time.;One+skill+at+a+time.;Building+consistency+%F0%9F%90%8D&font=Fira%20Code&center=true&width=500&height=45&color=3776AB&vCenter=true&size=22" alt="Animated typing message" />
 
 </div>
 
@@ -28,11 +29,13 @@ I'm doing the **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. An
 
 I purchased this course a few months ago but hadn't started — today, I made a commitment to myself to actually complete this course, and I'm excited to begin! 🎯
 
-I'll be uploading all my files and resources to GitHub so others can follow along and learn from my journey too. This course takes me from Python basics all the way to advanced concepts.
+I'll be uploading all my files and resources to GitHub so others can follow along and learn from my journey too.
+
+This course takes me from Python basics all the way to advanced concepts.
 
 <div align="center">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100" alt="Python logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100" alt="Python Logo" />
 
 **Learn. Practice. Build. Repeat.**
 
@@ -47,7 +50,9 @@ This challenge follows **Dr. Angela Yu's** course on Udemy:
 - 📚 **Course:** [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - 🐙 **Instructor:** [Angela Yu on GitHub — @angelabauer](https://github.com/angelabauer)
 
-All course content, project ideas, and structure belong to Dr. Angela Yu and The App Brewery. This repository contains my own personal practice code and notes as I work through the course. 🙏
+All course content, project ideas, and structure belong to Dr. Angela Yu and The App Brewery.
+
+This repository contains my own personal practice code and notes as I work through the course. 🙏
 
 ---
 
@@ -67,11 +72,17 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-### 🌱 21% of the journey completed
+### 🌱 21% of the Journey Completed
 
-<img src="https://progress-bar.dev/21/?width=500&color=306998&title=Challenge%20Progress" alt="Challenge progress: 21 percent" />
+![Progress](https://img.shields.io/badge/Progress-21%25-306998?style=for-the-badge&logo=python&logoColor=white)
+
+**21 Days Completed | 79 Days Remaining**
+
+`██████░░░░░░░░░░░░░░░░░░░░░░` **21%**
 
 </div>
+
+<br>
 
 | Day | Topic | Project |
 |:---:|---|---|
@@ -100,11 +111,13 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
 
 ---
 
@@ -114,8 +127,10 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 **That's all — good luck to me, and thanks for following along! 🚀**
 
-*Keep learning. Keep building. Never stop.*
+*Keep Learning. Keep Building. Never Stop.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=100&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
