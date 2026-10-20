@@ -66,9 +66,9 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-<h1> <code>███████░░░░░░░░░░░░░░░░░░░░░</code> </h1>
+<h2>🐍 21 / 100 Days Complete</h2>
 
-<h3>🐍 21 / 100 Days Complete</h3>
+<h1> <code>███████░░░░░░░░░░░░░░░░░░░░░</code> </h1>
 
 *Learning something new every day. Keep going! 🐍*
 </div>
