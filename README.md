@@ -68,6 +68,7 @@ Each day's folder (`Day XX/`) is organized like this:
 
 <div align="center">
 # 🔥 21 / 100 DAYS COMPLETE 🔥
+
 🐍 *Learning something new every day. Keep going!*
 <br>
 
