@@ -61,30 +61,34 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 </div>
 
-Click a project to open its code directly.
+## 🔗 Day Links
+
+Click a day to open its folder.
 
 | Day | Topic | Project | Link |
 |:---:|-------|---------|:----:|
-| 1 | Variables, Print, Input | Band Name Generator | [Open](Day%201) |
-| 2 | Data Types, Operators, F-Strings | Tip Calculator, BMI Calculator | [Open](Day%202) |
-| 3 | If, Else, Elif | Treasure Island, Pizza Order Calculator | [Open](Day%203) |
-| 4 | Lists, Randomization | Heads or Tails, Rock Paper Scissors | [Open](Day%204) |
-| 5 | Loop, Range | Fizz Buzz, Py Password Generator | [Open](Day%205) |
-| 6 | Basic Function, While loop | Number Guessing Game | [Open](Day%206) |
-| 7 | Uses of For, While, If | Hang Man Game | [Open](Day%207) |
-| 8 | More about Functions and their uses | Life in Weeks, True Love Calculator, Caesar Cipher | [Open](Day%208) |
-| 9 | Dictionary, Nested Dictionary & List | Silent Auction Program | [Open](Day%209) |
-| 10 | More on Functions | Advanced Calculator | [Open](Day%2010) |
-| 11 | All concepts from Day 1 to Day 10 | BlackJack Card Game | [Open](Day%2011) |
-| 12 | Namespaces, Scope (Global & Local), Mutable vs Immutable | Number Guessing Game | [Open](Day%2012) |
-| 13 | Debugging | None | [Open](Day%2013) |
-| 14 | All concepts from Day 1 to Day 12 | Higher Lower Game | [Open](Day%2014) |
-| 15 | Functions & all basic concepts | Coffee Machine | [Open](Day%2015) |
-| 16 | How to use Classes & Objects | Coffee Machine using Classes & Objects | [Open](Day%2016) |
-| 17 | Basics of OOP: building Classes and Objects | Quiz Game | [Open](Day%2017/Project) |
-| 18 | Turtle Graphics | Hirst Dot Painting | [Open](Day%2018) |
-| 19 | Multiple Turtles, Keyboard Events | Turtle Race Game | [Open](Day%2019) |
-| 20 & 21 | More Turtle Graphics and Inheritance | Snake Game | [Open](Day%2020%20-%2021) |
+| 1 | Variables, Print, Input | Band Name Generator | [Day 01](Day%2001) |
+| 2 | Data Types, Operators, F-Strings | Tip Calculator, BMI Calculator | [Day 02](Day%2002) |
+| 3 | If, Else, Elif | Treasure Island, Pizza Order Calculator | [Day 03](Day%2003) |
+| 4 | Lists, Randomization | Heads or Tails, Rock Paper Scissors | [Day 04](Day%2004) |
+| 5 | Loop, Range | Fizz Buzz, Py Password Generator | [Day 05](Day%2005) |
+| 6 | Basic Function, While loop | Number Guessing Game | [Day 06](Day%2006) |
+| 7 | Uses of For, While, If | Hang Man Game | [Day 07](Day%2007) |
+| 8 | More about Functions and their uses | Life in Weeks, True Love Calculator, Caesar Cipher | [Day 08](Day%2008) |
+| 9 | Dictionary, Nested Dictionary & List | Silent Auction Program | [Day 09](Day%2009) |
+| 10 | More on Functions | Advanced Calculator | [Day 10](Day%2010) |
+| 11 | All concepts from Day 1 to Day 10 | BlackJack Card Game | [Day 11](Day%2011) |
+| 12 | Namespaces, Scope (Global & Local), Mutable vs Immutable | Number Guessing Game | [Day 12](Day%2012) |
+| 13 | Debugging | None | [Day 13](Day%2013) |
+| 14 | All concepts from Day 1 to Day 12 | Higher Lower Game | [Day 14](Day%2014) |
+| 15 | Functions & all basic concepts | Coffee Machine | [Day 15](Day%2015) |
+| 16 | How to use Classes & Objects | Coffee Machine using Classes & Objects | [Day 16](Day%2016) |
+| 17 | Basics of OOP: building Classes and Objects | Quiz Game | [Day 17](Day%2017) |
+| 18 | Turtle Graphics | Hirst Dot Painting | [Day 18](Day%2018) |
+| 19 | Multiple Turtles, Keyboard Events | Turtle Race Game | [Day 19](Day%2019) |
+| 20 & 21 | More Turtle Graphics and Inheritance | Snake Game | [Day 20 - 21](Day%2020%20-%2021) |
+
+
 ---
 
 ## 🛠️ Tech Stack
