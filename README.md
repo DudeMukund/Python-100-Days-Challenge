@@ -68,11 +68,17 @@ Each day's folder (`Day XX/`) is organized like this:
 
 <div align="center">
 
-### **21 / 100 days complete**
+# 🔥 21 / 100 DAYS COMPLETE 🔥
 
-`[██░░░░░░░░]` **21%**
+<img src="https://img.shields.io/badge/PROGRESS-21%25-2ea44f?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" height="45" alt="21 percent" />
 
-*Learning something new every day. Keep going! 🐍*
+## `█████░░░░░░░░░░░░░░░░░░░░░░░░░`
+
+<img src="https://img.shields.io/badge/Days%20Done-21-306998?style=for-the-badge" height="35" alt="Days done" />
+<img src="https://img.shields.io/badge/Days%20Left-79-E34F26?style=for-the-badge" height="35" alt="Days left" />
+<img src="https://img.shields.io/badge/Current%20Day-22-FFD43B?style=for-the-badge&logoColor=black&labelColor=306998" height="35" alt="Current day" />
+
+> ### 🐍 *Learning something new every day. Keep going!*
 
 <br>
 
