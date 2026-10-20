@@ -70,7 +70,6 @@ Each day's folder (`Day XX/`) is organized like this:
 
 # 🔥 21 / 100 DAYS COMPLETE 🔥
 
-<br>
 
 | Day | Topic | Project |
 |:---:|---|---|
