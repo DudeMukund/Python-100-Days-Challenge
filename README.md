@@ -70,7 +70,7 @@ Each day's folder (`Day XX/`) is organized like this:
 
 # 🔥 21 / 100 DAYS COMPLETE 🔥
 
-
+Click a day to open its folder.
 | Day | Topic | Project |
 |:---:|---|---|
 | [Day 01](Day%2001) | Variables, Print, Input | Band Name Generator |
