@@ -2,11 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" width="100%" alt="100 Days of Python Challenge" />
-
-# 🐍 100 Days of Python Challenge
-
-### From Learning the Basics to Building Real Projects
-
 <p>
   <img src="https://img.shields.io/badge/Challenge-100%20Days-306998?style=for-the-badge&logo=python&logoColor=white" alt="100 Days Challenge" />
   <img src="https://img.shields.io/badge/Progress-21%25-2ea44f?style=for-the-badge" alt="21 Percent Complete" />
