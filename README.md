@@ -67,10 +67,6 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 <div align="center">
 
-### 🌱 21% of the Journey Completed
-
-![Progress](https://img.shields.io/badge/Progress-21%25-306998?style=for-the-badge&logo=python&logoColor=white)
-
 **21 Days Completed | 79 Days Remaining**
 
 `██████░░░░░░░░░░░░░░░░░░░░░░` **21%**
