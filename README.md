@@ -74,10 +74,6 @@ Each day's folder (`Day XX/`) is organized like this:
 
 ## `█████░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-<img src="https://img.shields.io/badge/Days%20Done-21-306998?style=for-the-badge" height="35" alt="Days done" />
-<img src="https://img.shields.io/badge/Days%20Left-79-E34F26?style=for-the-badge" height="35" alt="Days left" />
-<img src="https://img.shields.io/badge/Current%20Day-22-FFD43B?style=for-the-badge&logoColor=black&labelColor=306998" height="35" alt="Current day" />
-
 > ### 🐍 *Learning something new every day. Keep going!*
 
 <br>
