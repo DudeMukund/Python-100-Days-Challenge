@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=200&section=header&text=100%20Days%20of%20Python&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20journey%20from%20zero%20to%20Python%20pro&descAlignY=55&descSize=18" width="100%" alt="100 Days of Python Challenge" />
@@ -9,7 +8,8 @@
   <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python" />
 </p>
 
-**📅 Date Started:** 19 September 2026
+**📅 Date Started:** 19 September 2026  
+**📍 Currently on:** Day 22
 
 <br>
 
@@ -23,15 +23,15 @@
 
 I'm doing the **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu** on Udemy.
 
-I purchased this course a few months ago but hadn't started — today, I made a commitment to myself to actually complete this course, and I'm excited to begin! 🎯
+I purchased this course a few months before starting but never got to it. On **19 September 2026**, I committed to actually completing it, and I'm excited to keep going! 🎯
 
-I'll be uploading all my files and resources to GitHub so others can follow along and learn from my journey too.
+I upload all my files and resources to GitHub so others can follow along and learn from my journey too.
 
 This course takes me from Python basics all the way to advanced concepts.
 
 <div align="center">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100" alt="Python Logo" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Python Logo" />
 
 **Learn. Practice. Build. Repeat.**
 
@@ -54,7 +54,7 @@ This repository contains my own personal practice code and notes as I work throu
 
 ## 📁 Repository Structure
 
-Each day's folder (`Day-XX/`) is organized like this:
+Each day's folder (`Day XX/`) is organized like this:
 
 | File / Folder | Description |
 |:---|:---|
@@ -64,16 +64,15 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 ---
 
+## 📊 Progress
 
 <div align="center">
 
 ### **21 / 100 days complete**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **21%**
+`[██░░░░░░░░]` **21%**
 
 *Learning something new every day. Keep going! 🐍*
-
-
 
 <br>
 
@@ -100,12 +99,27 @@ Each day's folder (`Day-XX/`) is organized like this:
 | [Day 19](Day%2019) | Multiple Turtles, Keyboard Events | Turtle Race Game |
 | [Day 20 - 21](Day%2020%20-%2021) | More Turtle Graphics and Inheritance | Snake Game |
 
+</div>
+
+---
+
+## ▶️ Run the Code
+
+```bash
+git clone https://github.com/DudeMukund/Python-100-Days-Challenge.git
+cd Python-100-Days-Challenge
+python "Day 01/main.py"
+```
+
+Folder and file names may vary by day, so check each day's `README.md` for details.
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -118,9 +132,7 @@ Each day's folder (`Day-XX/`) is organized like this:
 
 ### 🌱 Whatever I learn, I'll share it here.
 
-**That's all — good luck to me, and thanks for following along! 🚀**
-
-*Keep Learning. Keep Building. Never Stop.*
+**Thanks for following along! 🚀**
 
 <br>
 
