@@ -69,14 +69,8 @@ Each day's folder (`Day-XX/`) is organized like this:
 <div align="center">
 
 ### 🌱 Every day is a step forward!
-
-<h1>🚀 21% COMPLETED</h1>
-
-<img src="https://progress-bar.dev/21/?width=600&color=306998" width="600" alt="Challenge progress: 21 percent" />
-
 <h3>✅ 21 Days Completed &nbsp; | &nbsp; 🎯 79 Days Remaining</h3>
 
-*Learning something new every day. Keep going! 🐍*
 ## 📊 Progress
 
 <div align="center">
@@ -84,6 +78,8 @@ Each day's folder (`Day-XX/`) is organized like this:
 ### **21 / 100 days complete**
 
 `[███░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **21%**
+
+*Learning something new every day. Keep going! 🐍*
 
 </div>
 
