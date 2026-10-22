@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python" />
 </p>
 
-**📅 Date Started:** 19 September 2026  
+**📅 Date Started:** 20 September 2026  
 **📍 Currently on:** Day 22
 
 <br>
